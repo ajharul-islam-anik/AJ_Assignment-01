@@ -53,3 +53,60 @@ body {
 }
 
 /* THER NAVBAR END */
+
+
+
+
+
+/* THER BANNER SECTION START  */
+
+.banner-img{
+    position: relative;
+}
+
+.banner-img::before{
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0,0,0,0.5);
+}
+
+.banner-img img{
+    width: 100%;
+    height: 100vh;
+    display: block;
+}
+
+
+.banner-text {
+    text-align: center;
+    position: absolute;
+     top: 150px;
+     left: 380px;
+     color: white;
+     
+}
+
+.banner-text p {
+    line-height: 5px;
+    margin: 0%;
+    padding: 0%;
+}
+
+.banner-text h1 {
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.banner-text button { 
+background-color: blue;
+    border: none;
+    font-size: 16px;
+    padding: 12px 22px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 190px;
+    font-weight: bold;
+}
+
+/* THER BANNER SECTION END */
