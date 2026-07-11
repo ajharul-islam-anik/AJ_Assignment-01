@@ -110,3 +110,50 @@ background-color: blue;
 }
 
 /* THER BANNER SECTION END */
+
+
+
+
+/* There 4 items section start */
+
+.gallery{
+    width:90%;
+    max-width:1000px;
+    margin:50px auto;
+    column-count:2;
+    column-gap:35px;
+}
+
+.gallery img{
+    width:100%;
+    display:block;
+    margin-bottom:20px;
+}
+
+.all-items h1  {
+ text-align: center;
+ padding: 20px 0 10px;
+}
+
+.div-1 {
+    margin-bottom: 35px;
+    border-radius: 7px;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.div-1 .one-text {
+    padding: 20px 25px;
+
+}
+
+.div-1 .one-text p, h6 {
+    padding: 0%;
+    margin: 0%;
+    line-height: 10px;
+}
+
+.color-class {
+    color: blue;
+}
+
+
+/* There 4 items section end */
