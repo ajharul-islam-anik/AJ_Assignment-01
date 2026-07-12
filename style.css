@@ -24,6 +24,12 @@ body {
     list-style: none;
 
 }
+
+
+.nav-items ul li a {
+    text-decoration: none;
+    color: #575757;
+}
 .nav-items ul {
     display: flex;
     text-align: center;
