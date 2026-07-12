@@ -36,7 +36,7 @@ body {
     height: auto;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; 
    
 }
 
@@ -46,6 +46,7 @@ body {
     padding: 8px 13px;
     border-radius: 5px;
     color: white;
+    font-weight: bold;
 }
 
 .nav-button {
@@ -88,6 +89,7 @@ body {
     line-height: 5px;
     margin: 0%;
     padding: 0%;
+    text-align: center;
 }
 
 .banner-text h1 {
@@ -128,6 +130,7 @@ background-color: blue;
 .all-items h1  {
  text-align: center;
  padding: 20px 0 10px;
+ margin: 30px 0;
 }
 
 .div-1 {
